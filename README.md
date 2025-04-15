@@ -33,9 +33,9 @@ Built using **Flutter**, supports Android 10+ and iOS 14+.
 | Component            | Status            |
 |----------------------|-------------------|
 | Mobile UI            | ✅ In Progress     |
-| ESP32 Firmware       | ✅ In Progress     |
+| ESP32 Firmware       | ✅ Completed     |
 | IMU Integration      | ✅ Completed       |
-| Trick Recognition ML | 🔄 Planned         |
+| Trick Recognition ML | ✅ In Progress        |
 | Cloud Sync & Storage | 🔄 Planned         |
 | Hardware Prototype   | ✅ Assembled       |
 | Full Integration     | ❌ Not Completed   |
