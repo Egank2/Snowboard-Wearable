@@ -56,7 +56,7 @@ class quaternion_plotter():
         self.read_freq = 1e3
         self.plot_freq = 30
         self.maxpoints = 10*self.read_freq
-        self.out_file = open(f'run_{time.time_ns() // 1_000_000}.txt', 'w')
+        self.out_file = open(f'runs/run_{time.time_ns() // 1_000_000}.csv', 'w')
 
         self.t_start = datetime.datetime.now()
         self.last_plotted = datetime.datetime.now()
