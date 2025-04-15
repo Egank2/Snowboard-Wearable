@@ -66,8 +66,8 @@ Instructor: Dr. Joshua Gyllinsky
 
 ## 📘 Documentation
 
-- [📄 SRS – Software Requirements Spec](docs/SRS.pdf)
-- [📄 SDD – Software Design Document](docs/SDD.pdf)
+- [📄 SRS – Software Requirements Spec](Docs/SRS.pdf)
+- [📄 SDD – Software Design Document](Docs/SDD.pdf)
 - [📐 PCB Schematics & Layout](hardware/kicad/)
 - [📸 UI Screenshots](assets/screens/)
 
