@@ -55,6 +55,7 @@ matplotlib==3.10.1
 message-filters==4.11.3
 nav-msgs==5.3.5
 numpy==2.2.4
+numpy-quaternion==2024.0.8
 osrf-pycommon==2.1.5
 packaging==24.2
 pandas==2.2.3
@@ -62,6 +63,7 @@ pcl-msgs==1.0.0
 pendulum-msgs==0.33.5
 pillow==11.2.1
 pyparsing==3.2.3
+pyserial==3.5
 python-dateutil==2.9.0.post0
 python-qt-binding==2.2.1
 pytz==2025.2

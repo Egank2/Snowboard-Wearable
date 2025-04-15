@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 from scipy.interpolate import make_smoothing_spline
 
 df = pd.read_csv(
-    "runs/run1.csv",
+    "runs/run9.csv",
     header=None,
     names=["timestamp", "quat_w", "quat_x", "quat_y", "quat_z", "lat", "lon", "gps_speed", "altitude"]
 )
