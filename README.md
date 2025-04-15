@@ -44,13 +44,8 @@ Built using **Flutter**, supports Android 10+ and iOS 14+.
 
 ## 🔧 Getting Started
 
-### 📱 Mobile App (Flutter)
+### 📱 Mobile App (Swift)
 
-```bash
-cd mobile_app/
-flutter pub get
-flutter run
-```
 
 ### ⚡ Firmware (ESP32)
 
@@ -58,28 +53,11 @@ flutter run
 - Upload via USB using PlatformIO or Arduino IDE
 - Ensure I²C is connected to the IMU (BNO086) with proper pull-ups
 
----
-
-## 📂 Project Structure
-
-```
-snowboard-wearable/
-├── mobile_app/            # Flutter mobile UI
-├── firmware/              # ESP32 source code
-├── hardware/
-│   ├── kicad/             # KiCad schematic + PCB
-│   └── 3d_render/         # Board mockups
-├── assets/                # Images, icons, diagrams
-└── docs/                  # SRS, SDD, and supporting files
-```
-
----
-
 ## 🧑‍💻 Team 06 — WIT COMP4960
 
-- Aakash Mukherjee  
 - Emerson Herrera  
-- Kenneth Egan  
+- Kenneth Egan
+- Aakash Mukherjee 
 - David Kennet  
 - Victor Lomba  
 Instructor: Dr. Joshua Gyllinsky
