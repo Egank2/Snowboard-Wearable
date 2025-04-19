@@ -66,8 +66,8 @@ Instructor: Dr. Joshua Gyllinsky
 
 ## 📘 Documentation
 
-- [📄 SRS – Software Requirements Spec](Documents/SRS(Version1.5).pdf)
-- [📄 SDD – Software Design Document](Documents/SDD(Version1.4).pdf)
+- [📄 SRS – Software Requirements Spec](Documents/SRS(Version 1.5).pdf)
+- [📄 SDD – Software Design Document](Documents/SDD(Version 1.4).pdf)
 
 ---
 
