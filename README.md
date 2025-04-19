@@ -80,7 +80,8 @@ Please follow our [Code of Conduct](docs/CODE_OF_CONDUCT.md).
 
 ## 📜 License
 
-This project is for academic and research use. All rights reserved to the student authors.
+This project is intended for academic and research use only.
+All rights reserved. Unauthorized use, reproduction, or distribution is prohibited.
 
 ---
 
